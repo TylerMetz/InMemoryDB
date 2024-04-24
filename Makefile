@@ -6,3 +6,4 @@ build:
 
 run: build
 	go run $(SRC_DIR)/main.go
+	
